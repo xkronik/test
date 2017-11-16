@@ -1,4 +1,0 @@
-name = Custom SANDbox
-package = "Custom modules"
-
-core = 7.x
